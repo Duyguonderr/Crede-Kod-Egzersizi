@@ -11,3 +11,11 @@ Maven(11)
 Google Chrome tarayıcısı
 ChromeDriver
 Selenium ve Jsoup kütüphaneleri
+# Kurulum
+Java ve Maven Kurulumu:
+Java 8 veya üstü ve Maven'in sisteminize kurulu olduğundan emin olun.
+Projeyi Kopyalama:
+Bu projeyi yerel makinenize klonlayın veya indirin.
+git clone https://github.com/kullanici/ihale-scraper.git
+cd ihale-scraper
+
